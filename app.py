@@ -4,7 +4,6 @@ Application Web — Streamlit
 Mode lecture seule pour visiteurs / mode admin avec mot de passe
 """
 import streamlit_authenticator as stauth  # pip install streamlit-authenticator
-import streamlit as st
 import json
 import os
 import datetime
